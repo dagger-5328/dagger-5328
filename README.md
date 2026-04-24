@@ -76,6 +76,6 @@ Analyzed retail data using SQL and Power BI to identify key drivers of profitabi
 ## 📫 Connect with Me
 
 - 📧 Email: singhvedant5328@gmail.com  
-- 💻 GitHub: https://github.com/dagger-5328  
+- 💻 Contact: +91 8090029657  
 
 ---
